@@ -8,6 +8,6 @@ namespace ConsoleApp2
 {
     internal class swing
     {
-hazem noha
+hazem
     }
 }
